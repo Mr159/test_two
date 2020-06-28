@@ -1,10 +1,7 @@
 <template>
   <div class="hello">
-<<<<<<< HEAD
       <div>这是master分支上</div>
-=======
       <div>我是在dev分支上</div>
->>>>>>> dev
   </div>
 </template>
 
